@@ -11,7 +11,8 @@
     <title>Cactus Coffeehouse</title>
 </head>
 <body style="text-align: center">
-<h1>This project just have Restful API</h1>
-<h2>Download and import <a href="Cactus.postman_collection.json">this</a> postman collection for test it</h2>
+<h1>Restful API of CoffeeHouse</h1>
+<h2>Postman collection => <a href="Cactus.postman_collection.json">Download</a></h2>
+<h2>Database with data => <a href="cactus.sql">Download</a></h2>
 </body>
 </html>
